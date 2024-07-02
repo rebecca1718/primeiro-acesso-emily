@@ -20,4 +20,21 @@
     top: 100%;
     width: 60vw;
   }
-    
+  .cabeçalho__menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-image: url("../img/Menu.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+@import url("styles/header.css");
+.cabeçalho {
+  background-color: var(--branco);
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+  align-items: center;
+}

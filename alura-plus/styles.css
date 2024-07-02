@@ -43,10 +43,10 @@ font-size: 12px;
  margin: 0 6em;
 }
 background-image: url("img/Background.png");
-background-repeat: no-repeat;
-background-size: contain;
-align-items: center;
-text-align: center;
+background-repeat:no-repeat;
+background-size:contain;
+align-items:center;
+text-align:center;
 .lista-menu__titulo: 
 
 .lista-menu__item {
@@ -120,3 +120,4 @@ text-align: center;
 .swiper-slide img {
   width: 100%;
 }
+
