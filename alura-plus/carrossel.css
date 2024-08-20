@@ -57,5 +57,30 @@
     font-weight: 700;
     text-decoration: none;
   }
-            
+  @media screen and (min-width: 1728px) {
+    .carrossel__container {
+      display: flex;
+      width: 50%;
+      margin: 0 20vw 3em 20vw;
+    }
+  }@media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .descricao__titulo {
+      font-size: 32px;
+    }
+  }@media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .swiper-pagination {
+      margin: 1em 0;
+    }
+  }@media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .card {
+      width: 60%;
+      margin-left: 3em;
+    }
+  }          
   

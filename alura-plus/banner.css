@@ -24,4 +24,15 @@
     font-size: 14px;
     font-weight: 700;
   }
-        
+  @media screen and (min-width: 1728px) {
+  }@media screen and (min-width: 1728px) {
+    .banner__pesquisa {
+      width: 35%;
+    }
+  }@media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .banner {
+      padding: 5em 0;
+    }
+  }   
